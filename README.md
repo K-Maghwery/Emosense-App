@@ -105,17 +105,7 @@ lib/
 ---
 
 
-##  📊 Project Presentation
 
-### 🎓 Academic Presentation - Nile University Grad Project
-
-<div align="center">
-
-![EmoSense Logo](assets/Multi%20Emotion%20Detection%20For%20Mental%20illnesses/29.jpg)
-
-*Multi Emotion Detection System for Customer Feedback - Graduate Project*
-
-</div>
 
 ### 📑 Project Gallery
 
@@ -165,54 +155,7 @@ This project represents a comprehensive graduate-level research and development 
 
 ---
 
-##  Getting Started
 
-### Prerequisites
-- **Flutter SDK**: 3.0.0 or higher
-- **Dart SDK**: 3.0.0 or higher
-- **Android Studio** / **VS Code** with Flutter extensions
-- **Git** for version control
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/YoussefSalem582/Grad-Project.git
-cd Grad-Project
-```
-
-2. **Install dependencies**
-```bash
-flutter pub get
-```
-
-3. **Set up screenshots directory**
-```bash
-mkdir screenshots
-# Add your app screenshots to the screenshots/ directory
-```
-
-4. **Run the application**
-```bash
-flutter run
-```
-
-### Build for Production
-
-**Android APK:**
-```bash
-flutter build apk --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-**Web:**
-```bash
-flutter build web --release
-```
 
 ### Adding Screenshots
 
